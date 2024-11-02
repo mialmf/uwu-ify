@@ -1,0 +1,13 @@
+python3.9
+
+to create a venv
+> python3.9 -m venv venv
+
+to start venv
+> source venv/bin/activate
+
+to close venv
+> deactivate
+
+installs within venvironment
+> pip install opencv-python mediapipe pillow numpy flask 
